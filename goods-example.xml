@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://suppliers.rde.lv/api/v1/goods">
+	<metadata>
+		<version>1.0</version>
+		<created_at>2026-05-05T14:35:40Z</created_at>
+		<total_count>3</total_count>
+	</metadata>
+	<products>
+		<product>
+			<id>0011</id>
+			<category>Test1</category>
+			<brand>Lego</brand>
+			<sku>m_sku_001x1</sku>
+			<ean>123456789</ean>
+			<name>Test product 0011</name>
+			<quantity>1</quantity>
+			<price>101</price>
+			<country>EU</country>
+			<currency>EUR</currency>
+			<desc><![CDATA[<p>long desc1</p>]]></desc>
+		</product>
+		<product>
+			<id>0012</id>
+			<category>Test2</category>
+			<brand>Lego</brand>
+			<sku>m_sku_001x2</sku>
+			<ean>1234567890</ean>
+			<name>Test product 0012</name>
+			<quantity>2</quantity>
+			<price>202</price>
+			<currency>SEK</currency>
+			<weight>1500</weight>
+			<weight_brutto>1750</weight_brutto>
+			<size>10x2x1</size>
+			<intrastat>12345678</intrastat>
+		</product>
+		<product>
+			<id>0013</id>
+			<category>Test3</category>
+			<brand>Lego</brand>
+			<sku>m_sku_001x3</sku>
+			<ean>12345678901</ean>
+			<name>Test product 0013</name>
+			<quantity>3</quantity>
+			<price>303</price>
+		</product>
+	</products>
+</data>
+

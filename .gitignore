@@ -1,0 +1,37 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor Directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+
+# Secret & Environment Files
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary / Office Files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+*.bak
+
+# Static Site Generators / NPM (Optional, just in case)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
+dist/
