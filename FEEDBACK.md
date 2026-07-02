@@ -24,5 +24,4 @@ For any questions, please complete the form below. Our support team will review 
 </form>
 
 ---
-
-[← Back to Main](README.md)
+**Navigation:** [🏠 Back to Home](README.md) | [📄 Data Schema](schema.md) | [❌ Error Codes](errors.md)
